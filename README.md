@@ -18,7 +18,7 @@ Navegue até o diretório onde você salvou o código.
 
 ```bash
 Copy code
-cd path/to/cep-consulta.app
+cd path/to/consulta-cep.app
 Execute o aplicativo com o seguinte comando:
 ```
 ```
